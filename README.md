@@ -18,7 +18,6 @@
 # 📫 Contact
 
 📧 Email: iahmedayman672@gmail.com  
-📱 Phone: +20 1120524698  
 🔗 LinkedIn: https://linkedin.com/in/iahmed-ayman672  
 📍 Location: Cairo, Egypt
 ---
