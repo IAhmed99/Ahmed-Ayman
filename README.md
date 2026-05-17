@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Profile.jpg" width="160" />
+  <img src="Profile.jpg" width="180" style="border-radius:50%; border:3px solid #00ff00;" />
 </p>
  
 <!-- CYBER HEADER -->
