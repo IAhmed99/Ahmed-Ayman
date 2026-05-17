@@ -1,4 +1,6 @@
-<table><tr>    <td width="30%" valign="top">       <img src="Profile.jpg" width="100%" style="border-radius: 10px;"
+<p align="center">
+  <img src="Profile.jpg" width="160" />
+</p>
  
 <!-- CYBER HEADER -->
 <h1 align="center">Ahmed Ayman</h1>
