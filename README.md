@@ -1,9 +1,9 @@
-# Hi there, I'm Ahmed Ayman! [cite_start]👋 [cite: 2]
-### Information Security Engineer | [cite_start]SecOps & GRC [cite: 3, 9]
+# Hi there, I'm Ahmed Ayman!👋 
+### Information Security Engineer | [cite_start]SecOps & GRC
 
-[cite_start]📍 **Location:** Cairo, Egypt [cite: 6]  
+[cite_start]📍 **Location:** Cairo, Egypt
 [cite_start]💼 **LinkedIn:** [linkedin.com/in/iahmed-ayman672](https://linkedin.com/in/iahmed-ayman672) [cite: 7]  
-[cite_start]📧 **Email:** iahmedayman672@gmail.com [cite: 4]
+[cite_start]📧 **Email:** iahmedayman672@gmail.com
 
 ---
 
